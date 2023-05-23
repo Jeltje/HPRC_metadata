@@ -1,0 +1,2 @@
+ssds staging sync --submission-id 5c68b972-8534-402f-9861-11c93558765f --deployment default --dst-deployment gcp &> sync_UW_HPRC_HiFi_3.log
+This took a few tries because ssds would fail on a sample and keep running

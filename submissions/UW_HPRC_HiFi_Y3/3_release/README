@@ -1,0 +1,2 @@
+ssds staging release     --deployment default     --submission-id 5c68b972-8534-402f-9861-11c93558765f     --transfer-csv UW_HPRC_HiFi_Y3.transfer_ec2.csv     &>UW_HPRC_HiFi_Y3.transfer_aws.stdout &
+ssds staging release     --deployment gcp     --submission-id 5c68b972-8534-402f-9861-11c93558765f     --transfer-csv UW_HPRC_HiFi_Y3.transfer_gcp.csv     &>UW_HPRC_HiFi_Y3.transfer_gcp.stdout &

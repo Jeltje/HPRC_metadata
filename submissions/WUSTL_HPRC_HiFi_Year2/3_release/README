@@ -1,0 +1,4 @@
+ssds staging release     --deployment default     --submission-id b544dcc2-9e98-4cfb-b19e-0cda52a97541     --transfer-csv WUSTL_HPRC_HiFi_Year2.transfer_ec2.csv     &>WUSTL_HPRC_HiFi_Year2.transfer_aws.stdout &
+ssds staging release     --deployment gcp     --submission-id 1e5c99aa-1172-4c0e-90f6-80276a589959     --transfer-csv WUSTL_HPRC_HiFi_Year2.transfer_gcp_HPRC.csv     &>WUSTL_HPRC_HiFi_Year2.transfer_gcp.stdout &
+ssds staging release     --deployment gcp     --submission-id 1e5c99aa-1172-4c0e-90f6-80276a589959     --transfer-csv WUSTL_HPRC_HiFi_Year2.transfer_gcp.csv     &>WUSTL_HPRC_HiFi_Year2.transfer_gcp.stdout &
+ssds staging release     --deployment gcp     --submission-id b544dcc2-9e98-4cfb-b19e-0cda52a97541     --transfer-csv WUSTL_HPRC_HiFi_Year2.transfer_gcp.csv     &>WUSTL_HPRC_HiFi_Year2.transfer_gcp.stdout &

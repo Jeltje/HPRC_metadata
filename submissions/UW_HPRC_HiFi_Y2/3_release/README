@@ -1,0 +1,5 @@
+ssds staging release     --deployment default     --submission-id c0de0f97-f422-4057-90bd-12b40869d30a     --transfer-csv UW_HPRC_HiFi_Y2.transfer_ec2.csv &> UW_HPRC_HiFi_Y2.transfer_aws.stdout &
+ssds staging release     --deployment default     --submission-id c0de0f97-f422-4057-90bd-12b40869d30a     --transfer-csv UW_HPRC_HiFi_Y2.transfer_gcp.csv &> UW_HPRC_HiFi_Y2.transfer_gcp.stdout 
+ssds staging release     --deployment default     --submission-id 57361110-d079-4bb0-ac49-b4f6e0407fc0  --transfer-csv UW_HPRC_HiFi_Y2.transfer_gcp.csv &> UW_HPRC_HiFi_Y2.transfer_gcp.stdout &
+ssds staging release     --deployment default     --submission-id 57361110-d079-4bb0-ac49-b4f6e0407fc0   --transfer-csv UW_HPRC_HiFi_Y2.transfer_ec2.csv &> UW_HPRC_HiFi_Y2.transfer_aws.stdout
+ssds staging release     --deployment gcp     --submission-id 57361110-d079-4bb0-ac49-b4f6e0407fc0  --transfer-csv UW_HPRC_HiFi_Y2.transfer_gcp.csv &> UW_HPRC_HiFi_Y2.transfer_gcp.stdout &
