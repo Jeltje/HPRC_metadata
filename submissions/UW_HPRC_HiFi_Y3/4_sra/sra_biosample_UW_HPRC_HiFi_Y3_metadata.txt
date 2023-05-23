@@ -1,0 +1,25 @@
+sample_name	organism	isolate	age	biomaterial_provider	sex	tissue	population	family id
+HG00099	Homo sapiens	HG00099	No data	Coriell Institute	female	B-Lymphocyte	British in England and Scotland	HG00099
+HG00280	Homo sapiens	HG00280	No data	Coriell Institute	male	B-Lymphocyte	Finnish in Finland	HG00280
+HG00558	Homo sapiens	HG00558	No data	Coriell Institute	female	B-Lymphocyte	Southern Han Chinese, China	SH045
+HG00639	Homo sapiens	HG00639	No data	Coriell Institute	female	B-Lymphocyte	Puerto Rican in Puerto Rico	PR03
+HG01074	Homo sapiens	HG01074	No data	Coriell Institute	male	B-Lymphocyte	Puerto Rican in Puerto Rico	PR18
+HG01081	Homo sapiens	HG01081	No data	Coriell Institute	female	B-Lymphocyte	Puerto Rican in Puerto Rico	PR21
+HG02040	Homo sapiens	HG02040	No data	Coriell Institute	male	B-Lymphocyte	Kinh in Ho Chi Minh City, Vietnam	VN054
+HG02165	Homo sapiens	HG02165	No data	Coriell Institute	female	B-Lymphocyte	Chinese Dai in Xishuangbanna, China	HG02165
+HG02451	Homo sapiens	HG02451	No data	Coriell Institute	female	B-Lymphocyte	African Caribbean in Barbados	BB46
+HG02735	Homo sapiens	HG02735	No data	Coriell Institute	male	B-Lymphocyte	Punjabi in Lahore,Pakistan	PK26
+HG02922	Homo sapiens	HG02922	No data	Coriell Institute	female	B-Lymphocyte	Esan in Nigeria	NG06
+HG03017	Homo sapiens	HG03017	No data	Coriell Institute	male	B-Lymphocyte	Punjabi in Lahore,Pakistan	PK35
+HG03041	Homo sapiens	HG03041	No data	Coriell Institute	female	B-Lymphocyte	Gambian in Western Division, The Gambia	GB110
+HG03130	Homo sapiens	HG03130	No data	Coriell Institute	male	B-Lymphocyte	Esan in Nigeria	NG36
+HG03139	Homo sapiens	HG03139	No data	Coriell Institute	male	B-Lymphocyte	Esan in Nigeria	NG39
+HG03209	Homo sapiens	HG03209	No data	Coriell Institute	male	B-Lymphocyte	Mende in Sierra Leone	SL17
+HG03239	Homo sapiens	HG03239	No data	Coriell Institute	female	B-Lymphocyte	Punjabi in Lahore,Pakistan	PK41
+HG03704	Homo sapiens	HG03704	No data	Coriell Institute	female	B-Lymphocyte	Punjabi in Lahore,Pakistan	PK60
+NA18522	Homo sapiens	NA18522	No data	Coriell Institute	male	B-Lymphocyte	Yoruba in Ibadan, Nigeria	Y016
+NA18747	Homo sapiens	NA18747	No data	Coriell Institute	male	B-Lymphocyte	Han Chinese in Bejing, China	NA18747
+NA18983	Homo sapiens	NA18983	No data	Coriell Institute	male	B-Lymphocyte	Japanese in Tokyo, Japan	NA18983
+NA19043	Homo sapiens	NA19043	No data	Coriell Institute	male	B-Lymphocyte	Luhya in Webuye, Kenya	NA19043
+NA20752	Homo sapiens	NA20752	No data	Coriell Institute	male	B-Lymphocyte	Toscani in Italy	NA20752
+NA20905	Homo sapiens	NA20905	No data	Coriell Institute	male	B-Lymphocyte	Gujarati Indian in Houston,TX	NA20905
