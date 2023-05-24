@@ -18,12 +18,13 @@ Contains information on abnormally named samples and other pipeline hiccups.
 
 ## Syncing from s3 to gs
 Outputs from the ssds command that copies files from s3 (the submitter upload) to google cloud (which is accessible by AnVIL/Terra) like so:
+```
 ssds staging sync \
     --submission-id c0de0f97-f422-4057-90bd-12b40869d30a \
     --deployment default \
     --dst-deployment gcp \
     &>sync_WUSTL_HPRC_HiFi_Year3.log &
-
+```
 For details on syncing see [Uploading and Syncing HPRC Submissions](https://ucsc-cgl.atlassian.net/wiki/spaces/~63c888081d7734b550c2052b/pages/2327183361/Uploading+Syncing+HPRC+Submissions)
 
 ## Terra
@@ -34,7 +35,7 @@ We run two QC workflows on the input HiFi bam files,
 [Readstats](https://dockstore.org/workflows/github.com/human-pangenomics/hpp_production_workflows/ReadStats:master?tab=info)
 and
 [NTSM](https://dockstore.org/workflows/github.com/human-pangenomics/hpp_production_workflows/NTSM:master?tab=info).  
-Note that these pages have an Export to AnVIL option on the right hand side.  
+Note that these Dockstore pages have an Export to AnVIL option on the right hand side.  
 
 To create input tables for these workflows upload
 [Generate_Terra_Tables_HiFi_QC.ipynb](https://github.com/human-pangenomics/hpp_data_pipeline/blob/main/data_processing/AnVIL/Generate_Terra_Tables_HiFi_QC.ipynb) to the Analysis section

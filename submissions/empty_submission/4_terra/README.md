@@ -6,7 +6,7 @@ We run two QC workflows on the input HiFi bam files,
 [Readstats](https://dockstore.org/workflows/github.com/human-pangenomics/hpp_production_workflows/ReadStats:master?tab=info)
 and
 [NTSM](https://dockstore.org/workflows/github.com/human-pangenomics/hpp_production_workflows/NTSM:master?tab=info).  
-Note that these pages have an Export to AnVIL option on the right hand side.  
+Note that these Dockstore pages have an Export to AnVIL option on the right hand side.  
 
 To create input tables for these workflows upload
 [Generate_Terra_Tables_HiFi_QC.ipynb](https://github.com/human-pangenomics/hpp_data_pipeline/blob/main/data_processing/AnVIL/Generate_Terra_Tables_HiFi_QC.ipynb) to the Analysis section
