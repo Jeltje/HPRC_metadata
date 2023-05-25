@@ -1,0 +1,9 @@
+Note: We ran Primrose locally to create 5mc files, then uploaded those to the submission
+under a separate 5mc directory. To make the submitter data match those new files, the
+original tab separated file has been renamed to .txt. The tsv file contains the 5mc names.
+It also contains file names instead of file paths.
+This is the file that gets used by the merge code.
+
+HPRC_PacBio_HiFi_Metadata_Submission_UW_Yr3.txt
+HPRC_PacBio_HiFi_Metadata_Submission_UW_Yr3.with5mc.tsv
+HPRC_PacBio_HiFi_Metadata_Submission_UW_Yr3.xlsx
